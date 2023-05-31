@@ -1,0 +1,17 @@
+# file1 = open("D:\hi.txt","w")
+# file1.read()
+# file1.close()
+    
+
+
+# (same directory) in append mode and
+# file1 = open("D:\hi.txt","a")
+ 
+# # store its reference in the variable file1
+# # and "MyFile2.txt" in D:\Text in file2
+# file1.open()
+
+
+f = open("D:\Project\sampleresume.txt",'r')
+print(f.read()) 
+
