@@ -1,0 +1,9 @@
+PDF to txt
+
+1.PDF formatted resumes are converted using PyPDF2 library.
+2.Extracted texts from pdf are saved to a new text document in local system.
+
+Word to txt
+
+1. Word formatted (.docx) resumes are converted to (.txt) using docx2txt library.
+2. Extracted texts from word are saved to a new text document in local system.
